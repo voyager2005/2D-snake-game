@@ -13,7 +13,9 @@ This is a 2D snake game that Me and My Friends have developed during our Christm
 ![image2 7](https://user-images.githubusercontent.com/76808676/104838980-5bbf8d00-58e4-11eb-9cb5-2a44708d8e9a.png)
 
 ### Things that I want to do next :
-- [ ] make the game spawn more than 1 food at a time
-- [ ] have certain number of hearts/lives
-- [ ] add power-ups
+- [x] Display The Co-ordinate of the snake's head and the position of the food 
+- [x] Add different shapes and colours of food which are picked randomly
+- [ ] Make the game spawn more than 1 food at a time
+- [ ] Have certain number of hearts/lives
+- [ ] Add power-ups
  
