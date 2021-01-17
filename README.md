@@ -1,6 +1,6 @@
 # 2D-snake-game
 
-### Hello There 👋
+## Hello There 👋
 
 This is a 2D snake game that Me and My Friends have developed during our Christmas Holidays.. Play and have fun!!
 
