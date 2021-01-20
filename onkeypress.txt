@@ -1,0 +1,10 @@
+Welcome, 
+This is for the onkeypress code that you can add for the snake game. The instructions are there in the README.md file
+
+Code: [<change value here> should be changed with the desired key]
+
+wn.listen()  # keep this as your secondary keys
+wn.onkeypress(go_up, "<change value here>")  # change your go up key here
+wn.onkeypress(go_down, "<change value here>")  # change your go down key here
+wn.onkeypress(go_left, "<change value here>")  # change your go left key here
+wn.onkeypress(go_right, "<change value here>")  # change your go right key here
