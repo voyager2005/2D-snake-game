@@ -122,10 +122,10 @@ wn.onkeypress(go_left, "Left")  # change your go left key here
 wn.onkeypress(go_right, "Right")  # change your go right key here
 
 wn.listen()  # keep this as your secondary keys
-wn.onkeypress(go_up, "8")  # change your go up key here
-wn.onkeypress(go_down, "5")  # change your go down key here
-wn.onkeypress(go_left, "4")  # change your go left key here
-wn.onkeypress(go_right, "6")  # change your go right key here
+wn.onkeypress(go_up, "w")  # change your go up key here
+wn.onkeypress(go_down, "s")  # change your go down key here
+wn.onkeypress(go_left, "a")  # change your go left key here
+wn.onkeypress(go_right, "d")  # change your go right key here
 
 segments = []
 
