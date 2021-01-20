@@ -1,5 +1,9 @@
 # 2D-snake-game
 
+![GitHub issues](https://img.shields.io/github/issues/voyager2005/2D-snake-game?logo=Github&style=plastic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/voyager2005/2D-snake-game?logo=Github&style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/voyager2005/2D-snake-game?logo=Github&style=plastic)
+
 This is a 2D snake game that [Me] and My Friends have developed during our Christmas Holidays.. Play and have fun!!
 
 ## How the game looks like:
