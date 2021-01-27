@@ -15,7 +15,8 @@ This is licensed under [MIT License](LICENSE)
 ![image2 6](https://user-images.githubusercontent.com/76808676/104838979-5a8e6000-58e4-11eb-889f-602daad71d09.png)
 
 ## Controls for the game:
-These are the two controls that are accepted. In case you want any alternate controls you can add [this] code on [line 129]
+These are the two controls that are accepted. 
+<br />**_you can add more control options by pasting [this] code on [line 129]_**
 <br />• 1st method:
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   w - up
 <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   a - left
